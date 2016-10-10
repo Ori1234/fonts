@@ -1,0 +1,276 @@
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Tinos/Tinos-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Hadasim/HadasimCLM-Regular.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Square Isaiah/ISAIAH.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Philipp Poll (OFL)/Linux Biolinum/LinBiolinum_RIah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyFrank/TaameyFrankCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/journal/JournalCLM-Light.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Ellinia/ElliniaCLM-Light.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/hillel/hillel-otf/HillelCLM-Medium.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_RZah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Sans/LiberationSans-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/KeterYG/KeterYG-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/hillel/HillelCLM-Medium.pfa: 
+/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Ellinia/ElliniaCLM-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/FrankRuehl/FrankRuehlCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Refoyl Finkl (GPL+FE)/refoyl/Refoyl.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Courier_New_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/KeterYG/KeterYG-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/journal/JournalCLM-Light.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/KeterYG/KeterYG-MediumOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Shlomo Orbach (OFL)/Shlomo.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/Alef-Webfont/Alef-bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/hillel/HillelCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Serif/LiberationSerif-Regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Carmelit/carmelitregular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/tnua-libre (GPL)/Tnua-Libre.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/ruehl2.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/FrankRuehl/FrankRuehlCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Fonts for scholars (OFL)/Cardo/Cardo-italic_99.otf: 
+/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/times.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_book_v2.otf: 
+/usr/share/fonts/truetype/freefont/FreeMono.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/gladia/GladiaCLM-Bold.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/Ezra.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/Alef-Webfont/Alef-regular.woff: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Nachlieli/NachlieliCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Simple/SimpleCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Serif/LiberationSerif-Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Aharoni/AharoniCLM-BookOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Carmelit/carmelitbold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/gladia/GladiaCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Sans/LiberationSans-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/ruehlb2.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSerif.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Square Bet Shearim/BETSHEAR.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/KeterAramTsova/KeterAramTsova.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_light_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/migdal-haemeq (OFL)/MigdalFontwin.ttf: 
+/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSerifItalic.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Refoyl Finkl (GPL+FE)/nachlaot/Nachlaot.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Sofer Stam/Sofer Stam Sefarad/StamSefaradCLM.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/gan/GanCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Noot/Noot.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/nachlight.pfb: 
+/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_Rah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/TTF/Alef-regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSerifBoldItalic.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Shlomo Orbach (OFL)/ShlomoLightBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/gan/GanCLM-Bold.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Miriam/MiriamCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/SIL (OFL)/Ezra SIL/SILEOTSR.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Miriam/MiriamCLM-Book.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/trashim/TrashimCLM-Bold.otf: 
+/usr/share/fonts/truetype/freefont/FreeSans.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_DRah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Nir Yenni (OFL)/Carmela/carmelaregular.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSansBold.otf: 
+/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Printer Killer (OFL)/dragon/Dragon.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Serif/LiberationSerif-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Vilna/Mekorot-Vilna-Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_RIah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSerifBold.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSansOblique.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/osh.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/FrankRuehl/FrankRuehlCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Aharoni/AharoniCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Paleo Gezer/GEZER.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Simple/SimpleCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Paleo Siloam/SILOAM.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Hadasim/HadasimCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/anka/anka-otf/AnkaCLM-Bold.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Paleo Mesha/MESHA.TTF: 
+/usr/share/fonts/truetype/msttcorefonts/timesi.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/Shofar/TTF/ShofarRegularOblique.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSans-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Arimo/Arimo-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Shlomo Orbach (OFL)/ShlomoSemiStam.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Daniel Johnson (OFL)/pfennig/PfennigBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_square_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/Shofar/TTF/ShofarDemi-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Vilna/Mekorot-Vilna.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/FrankRuehl/FrankRuehlCLM-MediumOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Christtrekker (OFL)/lookslikespht/Looks Like S'pht.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/horev/HorevCLM-Heavy.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Ptil/ptilwide-regular-webfont.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Philipp Poll (OFL)/Linux Biolinum/LinBiolinum_RBah.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/journal/journal-otf/JournalCLM-Light.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/stop-motion (OFL)/Stopmotion.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Paleo Qumran/QUMRAN.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Phoenician Ahiram/AHIRAM.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Felix Wasserstein (OFL)/felix007/felix007-medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Rashi/Mekorot-Rashi.woff: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Refoyl Finkl (GPL+FE)/refoyl/Refoyl.dfont: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Ludivine Loiseau (GPL+FE)/OSP Le Patin Helvète/Le-patin-helvete-italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeMonoBold.otf: 
+/usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/cjhebrew (LPPL)/CJHebLtx.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Yehuda/YehudaCLM-Light.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Arial.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Drugulin/DrugulinCLM-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyAshkenaz/TTF/TaameyAshkenaz-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/ktav-yad/KtavYadCLM-BoldItalic.pfa: 
+/usr/share/fonts/truetype/msttcorefonts/Courier_New.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/KeterYG/KeterYG-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/Alef-Webfont/Alef-bold.woff: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/MiriamMono/MiriamMonoCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL)/FrankRuehl (Curled Lamed)/FrankCurledLamed.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/ozrad/OzradCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeMono.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Ellinia/ElliniaCLM-LightItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_I.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/cjhebrew (LPPL)/CJHebLSm.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_RZIah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/MiriamMono/MiriamMonoCLM-BookOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Simple/SimpleCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/ozrad/OzradCLM-Bold.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyAshkenaz/TTF/TaameyAshkenaz-Bold.ttf: 
+/usr/share/fonts/truetype/freefont/FreeMonoBoldOblique.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSerif.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/horev/HorevCLM-Heavy.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_classic_bold_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Aharoni/AharoniCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/Shofar/TTF/ShofarDemi-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Mono/LiberationMono-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Ellinia/ElliniaCLM-Bold.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_medium_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/ktav-yad/KtavYadCLM-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Tinos/Tinos-Regular.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/ariali.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Aharoni/AharoniCLM-Book.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Richard Schoeller (GPL)/comix/ComixNo2CLM-Medium.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/David/DavidCLM-MediumItalic.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/courbd.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Sans/LiberationSans-Regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Arimo/Arimo-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/VTT-Source/Alef-bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Richard Schoeller (GPL)/comix/ComixNo2CLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Ptil/ptilnarrow-regular-webfont.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyDavid/TaameyDavidCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Philipp Poll (OFL)/Linux Biolinum/LinBiolinum_Rah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Hadasim/HadasimCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_classic_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Printer Killer (OFL)/nehama/Nehama.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Serif/LiberationSerif-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/ktav-yad/KtavYadCLM-MediumItalic.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Rashi/Mekorot-Rashi.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Nir Yenni (OFL)/Carmela/carmelabold.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/courbi.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Nachlieli/NachlieliCLM-LightOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_bold_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Square Habakuk/HABAKKUK.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Proto Canaanite/PROTOCN.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Samaritan/SAMARIT.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/dorian/DorianCLM-Book.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/David/DavidCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Printer Killer (OFL)/paskol/Paskol.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyAshkenaz/TTF/TaameyAshkenaz-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Shlomo Orbach (OFL)/ShlomoStam.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Linux Libertine (OFL)/Linux Libertine/LinLibertine_RBah.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSansBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Fonts for scholars (OFL)/Cardo/Cardo-regular_104s.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/cour.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Ptil/ptilwide-medium-webfont.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/dorian/DorianCLM-BookItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/tnua-libre (GPL)/Tnua-Libre-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeMonoOblique.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyFrank/TaameyFrankCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Hadasim/HadasimCLM-RegularOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Daniel Johnson (OFL)/pfennig/PfennigBoldItalic.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Oblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyAshkenaz/TTF/TaameyAshkenaz-MediumOblique.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/arialbi.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Daniel Johnson (OFL)/pfennig/PfennigItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/nachbold.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/SIL (OFL)/Ezra SIL/SILEOT.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/VTT-Source/Alef-regular.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyFrank/TaameyFrankCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Vilna/Mekorot-Vilna-Bold-Italic.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/MiriamMono/MiriamMonoCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_oblique_bold_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Philipp Poll (OFL)/Linux Biolinum/LinBiolinum_Kah.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_square_bold_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyDavid/TaameyDavidCLM-MediumOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyFrank/TaameyFrankCLM-MediumOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Mono/LiberationMono-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/MiriamMono/MiriamMonoCLM-Book.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Arimo/Arimo-Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyDavid/TaameyDavidCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Refoyl Finkl (GPL+FE)/nachlaot/Nachlaot.dfont: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Tinos/Tinos-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/hasida-tt.pfb: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Sofer Stam/Sofer Stam Ashkenaz/StamAshkenazCLM.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Paleo Lakhish/LACHISH.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Refoyl Finkl (GPL+FE)/Mashkit/Mashkit.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Drugulin/DrugulinCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Mono/LiberationMono-Italic.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/retro-perspective (OFL)/RetPer.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Mekorot (LPPL)/Vilna/Mekorot-Vilna-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Simple/SimpleCLM-MediumOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/David/DavidCLM-Bold.ttf: 
+/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Aramaic Imperial Yeb/YEB.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Nachlieli/NachlieliCLM-Light.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/anka/AnkaCLM-Bold.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Mono/LiberationMono-Regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Amos Jerbi (OFL)/Ptil/ptilnarrow-medium-webfont.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Yehuda/YehudaCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/Alef-Webfont/Alef-regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/OmegaSerifHebrew.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/timesbd.ttf: 
+/usr/share/fonts/truetype/freefont/FreeMonoOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Aramaic Early Bar-Raqib/BR_RKB.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Richard Schoeller (GPL)/comix/ComixNo2CLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/CTAN TeX Archive/makor2 (GPL)/hasida-tt.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Printer Killer (OFL)/asakim/Asakim Bold.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/couri.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_thin_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSansBoldOblique.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Christtrekker (OFL)/squarish sans/Squarish Sans CT Regular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Fonts for scholars (OFL)/Cardo/Cardo-bold_101.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Christ Trekker (OFL)/hananiah/Hananiah.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Ludivine Loiseau (GPL+FE)/OSP Le Patin Helvète/Le-patin-helvete.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/David/DavidCLM-BoldItalic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/HaGilda (OFL)/Alef/TTF/Alef-bold.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/timesbi.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Basic Fonts/Nachlieli/NachlieliCLM-BoldOblique.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Shlomo Orbach (OFL)/ShlomoBold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Arimo/Arimo-Regular.ttf: 
+/usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Steve Matteson (Apache)/Tinos/Tinos-Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Word Processor Set/shuneet_oblique_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Daniel Johnson (OFL)/pfennig/Pfennig.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/anka/AnkaCLM-Bold.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Elad Mordechai Mizrahi (GPL and OFL)/miri (OFL)/Miriwin.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeMonoBoldOblique.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_heavy_v2.otf: 
+/usr/share/fonts/truetype/msttcorefonts/Arial_Bold_Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Cunliffe-Thomspon (OFL)/Shuneet v.2.1/Designer Set/shuneet_demi_v2.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/GNU FreeFont (GPL)/FreeSans.otf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Makabi YG (Isaiah Scroll, modernized)/MakabiYG.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/TaameyDavid/TaameyDavidCLM-Medium.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels (no cantillation)/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Shmulik CLM/ShmulikCLM.ttf: 
+/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Richard Schoeller (GPL)/comix/ComixNo2CLM-Bold.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters with Vowels and Cantillation/Culmus Project (GPL+FE)/Yoram Gnat (GPL+FE)/Taamey-Culmus/Shofar/TTF/ShofarRegular.ttf: 
+/usr/share/fonts/truetype/carmelitregular.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Maxim Iorsh (GPL)/Fancy Fonts/horev/source/HorevCLM-Heavy.pfa: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Hebrew Square Ben Kosba/BENKOSBA.TTF: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Non-Hebrew Scripts/Steve Matteson (OFL)/Liberation Sans/LiberationSans-Italic.ttf: 
+/usr/share/fonts/hebrew/fonts-master/Fonts/Hebrew Letters only/Culmus Project (GPL and GPL+FE)/Yoram Gnat (GPL+FE)/Ancient-Semitic-Scripts-0.06-1/Aramaic VIIBCE/AVIIBCE.TTF: 
